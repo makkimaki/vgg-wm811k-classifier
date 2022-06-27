@@ -14,12 +14,12 @@ python -m venv [envname]
 ```
 .\vgg-wm811k\Scripts\activate
 ```
-> (py39) PS C:\Users\image-matching-akaze>  
+> (vgg-wm811k) PS C:\Users\vgg-wm811k-classifier>  
 
 などとなることを確認する。
 
 # Installation
-## Install the required packages`
+## Install the required packages
 ```
 pip install -r requirements.txt
 ```
