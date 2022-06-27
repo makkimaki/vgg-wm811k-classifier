@@ -8,7 +8,7 @@ Build a classification model using VGG16 with WM-811K dataset.
 ```
 python -m venv [envname]
 ```
-- `[envname]`: `vgg-wm811k`を指定
+- `[envname]`: e.g.) `vgg-wm811k`
 
 ## Activation
 ```
