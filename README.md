@@ -2,7 +2,7 @@
 Build a classification model using VGG16 with WM-811K dataset.
 
 
-# Virtual Environment
+# Virtual Environment (Windows)
 ## Creation
 - Create a virtual environment using `venv`.
 ```
@@ -16,7 +16,6 @@ python -m venv [envname]
 ```
 > (vgg-wm811k) PS C:\Users\vgg-wm811k-classifier>  
 
-などとなることを確認する。
 
 # Installation
 ## Install the required packages
